@@ -12,9 +12,14 @@
   `adb push c:\OPPO\PACM00_11_2270.ozip /sdcard/Download/`  
   `adb reboot recovery`  
 
-# 其他方法：
-## 查看签名信息
+# 其他：
+# 头部信息
+  ![image](https://github.com/pxysea/zip2ozip/assets/3711185/1e7d2f3f-53dd-4884-95fe-23676ba2f59a)
+# 数据开始 0x1050h
+
+# 查看签名信息
   `keytool -printcert -jarfile PACM00_11_2270.zip`
   
 # 引用
 `https://github.com/affggh/oppo_ozip_encrypt`
+
