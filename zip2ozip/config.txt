@@ -1,0 +1,14 @@
+android_version=10
+google_patch=20210405
+os_version=V7.1
+ota-downgrade=no
+ota-id=PACM00_11.F.27_2270_202104251653
+ota-property-files=metadata:69:331         
+ota-required-cache=0
+ota-type=BLOCK
+ota_version=PACM00_11.F.27_2270_202104251653
+patch_type=1
+post-timestamp=1619343001
+pre-device=PACM00
+version_name=PACM00_11_F.27
+wipe=0
